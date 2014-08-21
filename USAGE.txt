@@ -1,0 +1,11 @@
+Simple hexlet cli demo.
+
+Usage:
+  cli_demo --help | -h
+  cli_demo --version | -v
+  cli_demo [options] login <apikey>
+
+Options:
+  -h, --help       Show this screen.
+  -v, --version    Show version.
+  --host=<host>    Hexlet.io host [default: staging.hexlet.io].
